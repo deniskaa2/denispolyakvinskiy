@@ -1,0 +1,67 @@
+ .u-section-1 {
+  background-image: url("images/34434.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 868px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 154px;
+  height: 154px;
+  background-image: url("images/TFR-DH-Team-Camp-Lousa-2023-RB-Web-251.jpeg");
+  background-position: 50% 50%;
+  margin: 170px 470px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  font-family: "Akaya Telivigala";
+  text-shadow: -2px 0px 8px rgba(128,128,128,1);
+  font-weight: 700;
+  margin: 65px 158px 60px 234px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 716px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-weight: 400;
+    margin-right: 58px;
+    margin-left: 134px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 548px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 411px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 386px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 259px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 186px;
+  }
+}

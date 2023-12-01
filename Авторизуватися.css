@@ -1,0 +1,46 @@
+ .u-section-1 {
+  background-image: url("images/bike_tues_core2_headerOGvp8Z1Y64ctA.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 787px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 77px;
+  width: 570px;
+  margin: 373px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 252px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 174px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 110px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 39px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
